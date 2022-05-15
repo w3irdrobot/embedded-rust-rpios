@@ -1,0 +1,1 @@
+{"buildTargets":["all","check","clean","clippy","doc","kernel8.img","nm","objdump","qemu","readelf","target/aarch64-unknown-none-softfloat/release/kernel","target/rpi3.build_config"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
